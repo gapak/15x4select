@@ -12,6 +12,7 @@
     "react-select": "^1.2.1"
   },
   "scripts": {
+    "server": "nodemon server/server.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
